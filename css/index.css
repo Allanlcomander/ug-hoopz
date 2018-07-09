@@ -23,3 +23,19 @@
 .navbar-default .navbar-toggle {
   border-color: transparent;
 }
+
+
+
+/*#hoopzCarousel img{
+min-height: 100vh;
+}*/
+
+/*.carousel-inner img {
+
+  min-height: 100vh !important;
+  min-width: 100
+}
+
+.carousel-caption h3 {
+  color: #fff !important;
+}
