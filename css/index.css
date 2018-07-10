@@ -25,7 +25,11 @@
 }
 
 
-
+.full-screen {
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
 /*#hoopzCarousel img{
 min-height: 100vh;
 }*/
