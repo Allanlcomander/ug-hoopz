@@ -10,7 +10,7 @@ $(document).ready(function () {
     var $src = $(this).attr('src');
     var $color = $(this).attr('data-color');
     $(this).parent().css({
-      'background-image' : 'url(' + $src + ')',
+      'background-image' : 'linear-gradient( rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(' + $src + ')',
       'background-color' : $color
     });
     $(this).remove();
