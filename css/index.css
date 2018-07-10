@@ -13,11 +13,13 @@
 
 .navbar-nav li a:hover {
   color: #fff !important;
+  border-bottom: 5px solid orange;
 }
 
 .navbar-nav li.active a {
   color: #fff !important;
   background-color: #29292c !important;
+  border-bottom: 5px solid orange;
 }
 
 .navbar-default .navbar-toggle {
