@@ -41,16 +41,14 @@
   color: white;
   text-shadow: 0 1px 2px rgba(0, 0, 0, .6);
 }
-/*#hoopzCarousel img{
-min-height: 100vh;
-}*/
-
-/*.carousel-inner img {
-
-  min-height: 100vh !important;
-  min-width: 100
+/***/
+.main img{
+  width: 130px;
+  height: 100px;
+  border-left: 8px solid orange;
 }
-
-.carousel-caption h3 {
-  color: #fff !important;
+.minor img{
+  width: 65px;
+  height: 55px;
+  border-left: 8px solid orange;
 }
