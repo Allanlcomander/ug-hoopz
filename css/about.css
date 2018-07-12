@@ -42,3 +42,23 @@ h5 { font-size: 16px; }
 .txt-regular { font-weight: 400; }
 .txt-bold { font-weight: 700; }
 .txt-uppercase { text-transform: uppercase; }
+/*==========================
+About
+=========================== */
+
+.member-photo {
+	box-sizing:border-box;
+	-webkit-border-radius:50%;
+		-moz-border-radius:50%;
+			border-radius:50%;
+	margin: 0 0 20px 0;
+}
+.member-photo img {
+	-webkit-border-radius:50%;
+		-moz-border-radius:50%;
+			border-radius:50%;
+}
+
+.team-detail h4 {
+	font-weight: 700;
+}
