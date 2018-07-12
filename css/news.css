@@ -1,1 +1,55 @@
+div.b {
+  word-wrap: break-word;
+  float: left;
 
+}
+
+.b {
+  width: 350px;
+  border: 1px solid #000000;
+  background-color: #262626;
+  border-left: 8px solid #e45800;
+  overflow: hidden;
+  height: 219px;
+  color: white;
+
+}
+
+.poll {
+  display: inline;
+  float: center;
+
+}
+.poll-orange{
+display: inline;
+float: left;
+}
+h2{
+font-family: 'Franchise-Bold', sans-serif, arial;
+color: #e45800;
+text-transform: uppercase;
+font-size: 25px;
+}
+.Buttons{display: inline;
+float:right;
+font-family: 'Franchise-Bold', sans-serif, arial;
+color: #FFF !important;
+background-color: #e45800 !important;
+background-image: none;
+border: 1px solid transparent;
+box-shadow: none;
+text-shadow: none;
+font-size: 22px;
+font-weight: 400;
+line-height: 21px;
+margin-top: 42px;
+margin-bottom: 20px;
+margin-right: 12px;}
+
+
+.radio{
+ text-align: left;
+ vertical-align: baseline;
+ float: left;
+ text-align: left;
+}
