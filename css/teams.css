@@ -1,0 +1,51 @@
+
+
+
+.hoopzFooter {
+  background: #2d2d30;
+  color: white;
+}
+
+.hoopzFooter ul {
+  list-style: none;
+}
+.hoopzFooter h2{
+  letter-spacing: 4px;
+}
+
+
+.hoopzFooter .teams img{
+  padding: 4px;
+}
+
+.subscription h3{
+  letter-spacing: 6px;
+}
+
+.subscription p{
+  letter-spacing: 0.05em;
+}
+
+.subscription .fas {
+  font-size: 20px;
+}
+.subscription .form-control{
+  height: 32px;
+  border: none;
+  border-radius: 0;
+}
+.subscription .btn{
+  border: none;
+  border-radius: 0;
+  background-color: #FA8320;
+  border-color: #FA8320;
+  color: white;
+}
+.foot{
+  padding-top: 10px;
+  color: white;
+  background-color: black;
+}
+.foot .fas.fa-basketball-ball{
+  font-size: 20px;
+}
