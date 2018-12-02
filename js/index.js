@@ -16,6 +16,11 @@ $(document).ready(function () {
     $(this).remove();
   });
 
+  $(".nav li").on("click",function() {
+    $(".nav li").removeClass("active");
+    $(this).addClass("active");
+  });
+
   $(window).on('resize', function (){
     $wHeight = $(window).height();
     $item.height($wHeight);

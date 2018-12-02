@@ -330,3 +330,15 @@ font-size: 15px;
 .foot .fas.fa-basketball-ball{
   font-size: 20px;
 }
+@media screen and (max-width:425px){
+
+   .media-left,main{
+    display: none;
+
+   }
+   @media screen and (max-width:1440px){
+
+      .poll_wrap,b{
+       display: none;
+
+      }
